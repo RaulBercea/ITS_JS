@@ -1,0 +1,52 @@
+Programming Languages I Know:
+	- Java
+	- c
+	- c++
+	- javascript
+	- php
+	- sql
+	- c#
+	- python
+	- swift
+Compiled Languages:
+
+	- java: 
+		java can be considered both a compiled and interpreted language at the same time.
+		It is considered compiled because javac(the compiler used by java) first compiles 
+		the source code into a binary file, then the binary file runs on the Java Virtual
+		Machine wich is usualy a softwere based interpreter
+
+	- c:	
+		c as a language is meant to be minimalist and efficient, as such it is very close
+		to the machine and uses compilers(such as GCC) to crate very efficient code.
+		Because of it's efficiency it's used as the main language of the UNIX system
+
+	- c++:	
+		C++ is a general purpose language mostly meant for desktop applications. it's code
+		can be compiled using a variety of compilers such as: GCC, minGW or VisualC++
+
+	- Swift:
+		Swift is a language used for developement for the Apple ecosystem, it uses the LLVM
+		compiler availabe in Xcode
+	- c#:
+		C# is another general purpose programming language developed by Microsoft it uses
+		the compilers included in the .NET Framework to run
+
+Interpreted Languages
+
+	- javascript:
+		Javascript is a programming language meant for client-side web applications, as such
+		it is interpreted by the web browser used by the user(for example Chrom or Firefox)
+
+	- php:
+		PHP as a language is meant for server-side web applications wich means the interpreter
+		is a browser application
+
+	- SQL:
+		SQL is meant as a programming language used to insert,modify or delete data from a
+		database. It is run server-side using an interpreter
+	
+	- python: 
+		Python is a general purpose programming language, it uses a virtual machine as it's
+		interpreter meaning that it is software that emulates a physical computer
+	

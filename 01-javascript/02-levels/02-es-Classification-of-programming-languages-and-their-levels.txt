@@ -1,0 +1,12 @@
+Programming Languages are formal languages used to create computer programs. They are comprised of sets of instructions that can genereate various outputs and create specific algorithms.
+
+Programming languages are divided in three different categories:
+	
+	- Machine Language:    	This is the language used by the computer's hardware, it is made up by a series of zeros and ones that are used to represent the operations that
+							are accomplished by the computer.
+
+	- Assembly Language:   	Assembly languages are comprised of pneumonic abbreviations of the binary instructions used by the machine as such they are unique for each 
+							machine since the code created with them needs to be translated to machine language using what is called an assembler
+
+	- High-level Language: 	High-level Languages, such as Java or C++ are written to be more like English using English words for their instructions, that makes is so the 
+							programmer can more easily read, write and understand the code. High-level languages use compilers and interpreters to translate the code to machine language.
