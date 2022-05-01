@@ -99,3 +99,4 @@ books.forEach((book, index) => {
     // adding the book cover from the book object to the element
     document.getElementById("book-cover" + index).innerHTML = "<img src=./img/" + book.cover + ">";
 });
+

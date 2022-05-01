@@ -1,5 +1,17 @@
 /*
 * style.css
 *
-* css style to apply to the books based on weather they are read or not
+* style for the page
 */
+
+img {
+	width: auto;
+	max-width: 100%;
+}
+
+ul {
+	width: 30%;
+	border: 1px solid black;
+	list-style: none;
+	padding: 30px;
+}
