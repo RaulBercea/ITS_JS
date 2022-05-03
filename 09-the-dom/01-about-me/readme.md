@@ -2,14 +2,14 @@
 
 ## Author Details
 
--   Name : Raul
--   Surname: Bercea
--   Mail: raul.bercea@edu.itspiemonte.it
+- Name : Raul
+- Surname: Bercea
+- Mail: raul.bercea@edu.itspiemonte.it
 
 ## Excercise requirements
 
--   Add an external javascript file called main.js
--   In JavaScript:
+- Add an external javascript file called main.js
+- In JavaScript:
 
         - Change the body style so it has a font-family of "Arial, sans-serif"
 
@@ -22,7 +22,7 @@
 
         - Append that element to the page
 
--   Add an external css file using Javascript
+- Add an external css file using Javascript
 
         - The external css file should make items with the .list-item class
         white, bold and with an
