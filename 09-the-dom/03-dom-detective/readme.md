@@ -35,28 +35,28 @@
 document.querySelectorAll("img");
 ```
 
-2. Getting the main menu using a get element by class name
+- Getting the main menu using a get element by class name
 
 ```javascript
 // getting the main menu at the top of the page
 let menu = document.getElementsByClassName("menu-main");
 ```
 
-3. Getting all the items in the news section
+- Getting all the items in the news section
 
 ```javascript
 // all the news items under news
 let newsItems = document.let getElementsByClassName("news-section");
 ```
 
-4. Getting the footer of the page
+- Getting the footer of the page
 
 ```javascript
 //getting the footer
 let footer = document.getElementByTagName("footer");
 ```
 
-5. Getting the social media links
+- Getting the social media links
 
 ```javascript
 //gettin all social media links in the footer
