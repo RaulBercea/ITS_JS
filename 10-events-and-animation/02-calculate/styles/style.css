@@ -1,0 +1,43 @@
+/*Style.css used to style the calculate page*/
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+	box-sizing: inherit;
+}
+
+#container {
+	width: 30%;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+h3 {
+	text-align: center;
+}
+
+input[type="number"] {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+button {
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+#solution {
+	border: 1px solid black;
+	padding: 30px;
+	width: 30%;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
