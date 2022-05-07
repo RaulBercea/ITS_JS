@@ -1,5 +1,14 @@
 /**
+ * @file: main.js
+ * @author: Raul Bercea
+ * Using javascript events to calculate some basic operation
  * 
+ * by using the event listeners in javascript and and by getting the
+ * value of an input i can call functions based on the action an user
+ * makes. In this case the event listeners first target the click of
+ * the buttons to call the functions, while in the second case the
+ * event listener used is the "keyup" event listener wich triggers
+ * after the user has typed when the key has been released
  */
 
 /**
