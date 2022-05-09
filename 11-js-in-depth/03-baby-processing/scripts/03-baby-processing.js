@@ -3,7 +3,10 @@
  * @author: Raul Bercea
  * Manipulating the data withn an object
  *
- * by using for ... in
+ * by using for ... in loop i can access all of the proprieties of the
+ * each object and manipulate it. in this case getting all of the outfits
+ * and favorite foods of the babies and forming sentences based on each of
+ * them
  */
 
 let babiesArray = [];
