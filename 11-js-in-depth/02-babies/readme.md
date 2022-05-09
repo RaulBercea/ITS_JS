@@ -21,3 +21,10 @@
     -   Print each baby again with their outfit in a nicely formatted object
 
 ## Aproach to Solution
+
+By using push,unshif,the length of the array and the splice method i've
+added four objects to the array after that i've added a random color to
+three parts of the outfit of the baby in order to output to the console
+in a properly formatted manner i've used a for in nested inside another
+for in to print any nested objects and the proprieties of the objects
+themselves
