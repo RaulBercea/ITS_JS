@@ -3,7 +3,9 @@
  * @author: Raul Bercea
  * Adding a method to the string object in javascript that modifies a string with regular expressions
  * 
- * in order to make the 
+ * in order to add the method to the String object i've used prototype the way to modify strings in javascript is
+ * to use regular expressions to find matches in the string and using the replace method swapping them with the
+ * appropriate characters
  */
 
 // sample strings
