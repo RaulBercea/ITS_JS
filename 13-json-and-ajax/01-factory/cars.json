@@ -1,0 +1,71 @@
+[
+    {
+        "id":1,
+        "make":"Fiat",
+        "model":"Panda",
+        "doors":5,
+        "features":["alloy rims","leather seats","air conditioning"],
+        "engine":{
+            "Cylinders":4,
+            "HorsePower":69,
+            "Displacement":1242
+        },
+        "electric":false,
+        "licence plate":null
+    },
+    {
+        "id":2,
+        "make":"Fiat",
+        "model":"500e",
+        "doors":3,
+        "features":["leather seats","air conditioning"],
+        "engine":{
+            "HorsePower":118,
+            "PowerUsage":1242
+        },
+        "electric":true,
+        "licence plate":null
+    },
+    {
+        "id":3,
+        "make":"Fiat",
+        "model":"Panda",
+        "doors":5,
+        "features":["alloy rims","leather seats","air conditioning"],
+        "engine":{
+            "Cylinders":4,
+            "HorsePower":69,
+            "Displacement":1242
+        },
+        "electric":false,
+        "licence plate":null
+    },
+    {
+        "id":4,
+        "make":"Fiat",
+        "model":"Panda",
+        "doors":5,
+        "features":["alloy rims","leather seats","air conditioning"],
+        "engine":{
+            "Cylinders":4,
+            "HorsePower":69,
+            "Displacement":1242
+        },
+        "electric":false,
+        "licence plate":null
+    },
+    {
+        "id":5,
+        "make":"Fiat",
+        "model":"Panda",
+        "doors":5,
+        "features":["alloy rims","leather seats","air conditioning"],
+        "engine":{
+            "Cylinders":4,
+            "HorsePower":69,
+            "Displacement":1242
+        },
+        "electric":false,
+        "licence plate":null
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "name":"factory1",
+    "workers":200,
+    "main branch":true,
+    "cars":[]
+}
