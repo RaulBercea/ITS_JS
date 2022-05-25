@@ -1,0 +1,17 @@
+{
+    "name": "factory1",
+    "employees": 400,
+    "main branch": true,
+    "cars": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "contacts": {
+        "phone": "123456789",
+        "email": "car@factory.com"
+    },
+    "ceo": null
+}

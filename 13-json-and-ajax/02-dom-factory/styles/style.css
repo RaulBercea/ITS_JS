@@ -1,0 +1,22 @@
+html{
+    box-sizing: border-box;
+}
+
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    border: 1px solid black;
+    margin: 10px;
+    
+}
+
+div {
+    border: 1px solid black;
+    margin: 40px;
+}

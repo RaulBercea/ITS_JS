@@ -1,3 +1,8 @@
+/**
+ * @file: 02-dom-factory.js
+ * @author: Raul Bercea
+ */
+
 let carArray =
     '[{"id":1,"make":"Fiat","model":"Panda","doors":5,"features":["alloy rims","leather seats","air conditioning"],"engine":{"Cylinders":4,"HorsePower":69,"Displacement":1242},"electric":false,"licence plate":null},{"id":2,"make":"Fiat","model":"500e","doors":3,"features":["leather seats","air conditioning"],"engine":{"HorsePower":118,"PowerUsage":1242},"electric":true,"licence plate":null},{"id":3,"make":"Alfa Romeo","model":"Giulia","doors":5,"features":["cruise control","leather seats","alloy rims"],"engine":{"Cylinders":6,"HorsePower":134,"Displacement":1660},"electric":false,"licence plate":null},{"id":4,"make":"BMW","model":"i3","doors":5,"features":["alloy rims","leather seats","wood finishes"],"engine":{"HorsePower":100,"Displacement":1100},"electric":true,"licence plate":null},{"id":5,"make":"Jaguar","model":"ftype","doors":3,"features":["alloy rims","leather seats","air conditioning"],"engine":{"Cylinders":8,"HorsePower":575,"Displacement":4000},"electric":false,"licence plate":null}]';
 
@@ -12,7 +17,7 @@ let printArrayOfObjects = function (array, list) {
     for (const obj of array) {
         // creating an unordered list node
         let ul = document.createElement("ul");
-
+        
         // calling the printobject function
         printObject(obj, ul);
 
