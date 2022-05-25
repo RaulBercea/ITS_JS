@@ -1,14 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/style.css">
-    <title>Document</title>
+    <meta name="author" content="Raul Bercea">
+    <meta name="description" content="Managing remote json api requests">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style/style.css">
+    <title>Remote Factory</title>
 </head>
+
 <body>
-    <ul id=""></ul>
-    <script src="./scripts/03-remote-factory.js"></script>
+
+    <!-- page content -->
+    <div class="form-container">
+        <form>
+            <label for="car-ids">Car ID:</label>
+            <select name="car-ids" id="car-ids"></select>
+            <label for="car-properties">Car property:</label>
+            <select name="car-properties" id="car-properties"></select>
+            <label for="car-property-text">Change property:</label>
+            <input type="text" name="car-property-text" id="car-property-text">
+            <input type="submit" id="submit-change" value="Change property">
+        </form>
+    </div>
+
+    <!--Container for the objects-->
+    <div class="list-container">
+        <ul id="factory"></ul>
+        <div id="cars-container"></div>
+        
+    </div>
+
+    <!-- end of the body-->
+    <script src="./scripts/main.js"></script>
+
 </body>
+
 </html>

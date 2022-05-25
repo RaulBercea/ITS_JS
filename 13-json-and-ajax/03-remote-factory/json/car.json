@@ -1,0 +1,14 @@
+{
+    "id":1,
+    "make":"Fiat",
+    "model":"Panda",
+    "doors":5,
+    "features":["alloy rims","leather seats","air conditioning"],
+    "engine":{
+        "Cylinders":4,
+        "HorsePower":69,
+        "Displacement":1242
+    },
+    "electric":false,
+    "licence plate":null
+}
