@@ -33,4 +33,13 @@ In case your CDN is managed by a third party vendor in case of any technical iss
 If the CDN goes out of busines or if the serice becomes unavailable it's impossible to use your CDN and fall back to local files. This may not be a common issue but it is still a risk that needs to be taken into account.
 
 ## Scenarios where a CDN is required
-1. In case your website has a lot of traffic 
+
+1. In case your website has a lot of traffic from multiple countries a CDN is necessary for having a better performance and better stability for users in different countires.
+
+2. E-Commerce websites can operate their service even with massive traffic load times (like during black-friday) by having a CDN handle the traffic.
+
+## Scenarios when a CDN is not required
+
+1. If your website is only active in one country a CDN is not necessary as it is very unlikely you will have users from other countries access it.
+
+2. If the country you are trying to target doesn't support your CDN provider you will not be able to use a CDN even if you wanted to.
