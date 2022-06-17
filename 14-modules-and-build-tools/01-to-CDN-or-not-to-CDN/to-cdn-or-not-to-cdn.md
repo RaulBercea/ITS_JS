@@ -24,8 +24,13 @@ When a CDN monitors your asset delivery, operators can determine where extra cap
 Probabbly the most significant downside of using a CDN. Since the CDN uses third-party networks since the company needs to install such a networt they also need to interact with other companies.
 
 - Restrictions
+In some countries the ip adresses of popular CDNs(som organizations also do this) this makes you lose some trafic from such countries to your website
 
 - Support Availability
+In case your CDN is managed by a third party vendor in case of any technical issue you can't know how long it will take to fix it
 
 - Loss of Control
+If the CDN goes out of busines or if the serice becomes unavailable it's impossible to use your CDN and fall back to local files. This may not be a common issue but it is still a risk that needs to be taken into account.
 
+## Scenarios where a CDN is required
+1. In case your website has a lot of traffic 
