@@ -34,7 +34,7 @@ let regularFunction = function () {
  * arrow function that returns a string to the console
  */
 let arrowFunction = () => {
-  console.log("woo"); delay(300).then(myFunction);
+  console.log("woo");
 };
 
 // running various tests with the delay function
